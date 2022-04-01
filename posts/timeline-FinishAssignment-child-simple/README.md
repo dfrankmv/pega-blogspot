@@ -1,4 +1,4 @@
-Here is the tracer captured during the execution of the **FinishAssignment** activity.
+Here is the tracer captured during the execution of the **FinishAssignment** activity ([download the tracer file](https://github.com/dfrankmv/pega-blogspot/blob/65081439227c81c7fa4f9d830df174287b90484f/posts/timeline-FinishAssignment-child-simple/FinishAssignment_ChildCase.7z)).
 
 ![image](https://user-images.githubusercontent.com/19811297/161273888-b34263d9-4d40-4cfb-8aa1-ea2a58cbaa9d.png)
 
